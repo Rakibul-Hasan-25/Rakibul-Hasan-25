@@ -89,6 +89,14 @@ A web application designed to help users explore and track daily market prices o
 - Authentication integration.
 - Responsive and user-friendly interface.
 
+<p align="center">
+  <img
+    src="assets/projects/bazardor.png"
+    width="90%"
+    alt="Bazardor project screenshot"
+  />
+</p>
+
 **Tech Stack:** Next.js · TypeScript · Tailwind CSS · MongoDB
 
 <p>
@@ -112,6 +120,14 @@ A workout application designed to help users explore exercises and organize thei
 - Interactive exercise interface.
 - Responsive application design.
 
+<p align="center">
+  <img
+    src="assets/projects/fitlog.png"
+    width="90%"
+    alt="FitLog project screenshot"
+  />
+</p>
+
 **Tech Stack:** Next.js · React · Tailwind CSS
 
 <p>
@@ -134,6 +150,14 @@ An interactive platform that helps developers discover technologies and build pe
 - Interactive stack-building functionality.
 - Dynamic technology data.
 - Responsive user interface.
+
+<p align="center">
+  <img
+    src="assets/projects/devstackbuilder.png"
+    width="90%"
+    alt="Dev Stack Builder project screenshot"
+  />
+</p>
 
 **Tech Stack:** React · TypeScript · Tailwind CSS
 
